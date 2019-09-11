@@ -1,2 +1,2 @@
 # 0.4.Gradient
-Simple Gradient with buttons
+Simple html and css gradient buttons
